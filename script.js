@@ -8,6 +8,7 @@ if ( typeof dw_mediamanager !== 'undefined' ) {
      * @author Andreas Gohr <andi@splitbrain.org>
      * @author Dominik Eckelmann <eckelmann@cosmocode.de>
      * @author Pierre Spring <pierre.spring@caillou.ch>
+     * @author Thomas Müller <bikertom@gmx.at>
      */
     dw_mediamanager.insert = function (id) {
         var opts, cb, edid, s, pxsize;
