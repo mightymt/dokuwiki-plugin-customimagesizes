@@ -1,0 +1,7 @@
+base   customimagesizes
+author Thomas Müller
+email  bikertom@gmx.at
+date   2016-01-07
+name   Custom Image Sizes
+desc   Enables the configuration of image/thumbnail sizes for the media manager popup
+url    https://github.com/mightymt/
