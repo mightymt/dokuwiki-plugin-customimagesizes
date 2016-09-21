@@ -28,7 +28,7 @@ class action_plugin_customimagesizes extends DokuWiki_Action_Plugin {
      * @param  Doku_Event_Handler    controller    The event handler object
      */
     public function register( Doku_Event_Handler $controller ) {
-        $controller->register_hook( 'MEDIAMANAGER_STARTED', 'AFTER',  $this, 'addsizes' );
+        $controller->register_hook( 'MEDIAMANAGER_STARTED', 'AFTER', $this, 'addsizes' );
     }
 
     /**
