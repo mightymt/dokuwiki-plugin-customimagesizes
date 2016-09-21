@@ -1,20 +1,4 @@
 <?php
-
-/**
- * Custom Image Sizes
- * 
- * Enables configuration of image/thumbnail sizes for media manager
- * 
- * Licensed unter the GNU General Public License version 2 or later
- *
- * This program incorporates work covered by the following copyright and
- * permission notices:
- * 
- * DokuWiki
- * Copyright 2014 DokuWiki community
- * DokuWiki is released under the GNU General Public License version 2
- */
-
 // must be run within Dokuwiki
 if(!defined('DOKU_INC')) die();
 
